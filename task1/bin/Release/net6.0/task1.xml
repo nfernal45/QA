@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>task1</name>
+    </assembly>
+    <members>
+        <member name="M:task1.Engine.Arr(System.Int32,System.Int32)">
+            <summary>
+            Method for obtaining the path of a given array with a given step
+            </summary>
+            <param name="lenght">Array lenght</param>
+            <param name="step">Interval</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
